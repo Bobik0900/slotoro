@@ -1,0 +1,2 @@
+# slotoro
+slotoro site
